@@ -1,6 +1,6 @@
 {
-    "name": "codeception/aspect-mock",
-    "description": "Experimental Mocking Framework powered by Aspects",
+    "name": "pavarov/aspect-mock",
+    "description": "FORKED Experimental Mocking Framework powered by Aspects",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,7 @@
            }
        },
     "require": {
-        "php": "^7.4",
+        "php": ">=7.4",
         "goaop/framework": "^3.0",
         "phpunit/phpunit": "^9.5",
         "symfony/finder": "^4.4 | ^5.4 | ^6.0"
